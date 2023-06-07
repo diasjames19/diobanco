@@ -1,15 +1,17 @@
-# Projeto Dev-House (Back-End)
+# Projeto Banco Digital (Back-End)
 
 
 ## Desenvolvido em Node.js(Versão 18.x)
 
-Projeto criado durante o treinamento de Node.js, no curso da soitech.
+Projeto criado durante o treinamento de Java, na DIO.
 
-O objetivo do projeto é aprofundar o nosso conhecimento no NODEJS
+O objetivo do projeto é aprofundar o  conhecimento no Java, utilizado os assusntos abordados durante o curso.
+
+Tambem foi abordado as tecnicas de UML para criação.
 
 ### Tecnologias utilizadas:
-
-#### Assuntos Explorados
+- Java
+#### Pilares Poo Explorados
 
 - Abstração
 
